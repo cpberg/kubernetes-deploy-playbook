@@ -1,0 +1,5 @@
+---
+telegraf_datacenter_tag: dc2
+telegraf_collection_interval: "60s"
+telegraf_influxdb_url: "http://dc2vtltick01.rbauction.net:8086"
+telegraf_influxdb_dbname: "telegraf"

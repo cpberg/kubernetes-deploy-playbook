@@ -1,0 +1,3 @@
+---
+traefik_cert_pub_file: 'dc1vpltick01.crt'
+traefik_cert_key_file: 'dc1vpltick01.key'
