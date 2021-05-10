@@ -1,5 +1,5 @@
 ---
-- name: kubernetes
-  src: git@gitlab.com:christopherpberg/kubernetes.git
+- name: k8s-master
+  src: git@gitlab.com:christopherpberg/k8s-master.git
   version: master
   scm: git
