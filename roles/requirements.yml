@@ -3,3 +3,8 @@
   src: git@gitlab.com:christopherpberg/k8s-master.git
   version: master
   scm: git
+
+- name: k8s-slave
+  src: git@gitlab.com:christopherpberg/k8s-slave.git
+  version: master
+  scm: git
