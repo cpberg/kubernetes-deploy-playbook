@@ -1,3 +1,0 @@
-- hosts: any
-  roles:
-    - { role: ~/Work/ansible/roles/kubernetes/k8s-master }

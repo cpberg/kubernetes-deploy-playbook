@@ -1,7 +1,0 @@
----
-telegraf_datacenter_tag: dc1
-telegraf_collection_interval: "60s"
-telegraf_influxdb_url: "https://dc1vpltick01.rbauction.net:8086"
-telegraf_influxdb_dbname: "telegraf"
-telegraf_influxdb_username: "telegraf"
-telegraf_influxdb_password: "{{ vault_telegraf_influxdb_password }}"
